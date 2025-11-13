@@ -1,5 +1,5 @@
 
-## Available Scripts
+## TaskMaster Pro
 
 In the project directory, you can run:
 
